@@ -15,6 +15,6 @@ The attiny is used to put Dah Button to sleep when it is not being used. In slee
 
 Included:
 
-Li-Ion Battery 3.7V 900mAh
-3D model file to print your own button enclosure
+Li-Ion Battery 3.7V 900mAh, 
+3D model file to print your own button enclosure, 
 PCB Layout
