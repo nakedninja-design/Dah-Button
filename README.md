@@ -1,4 +1,4 @@
-# Dah-Button
+# Dah Button
 Fully programmable Wifi button based on ESP8266 and ATTiny85
 
 Tired of visiting that same site where your order your pizza? Or reminding your friend over and over again of that important meeting? 
